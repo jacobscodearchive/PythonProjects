@@ -1,2 +1,4 @@
 # PythonProjects
-collection of python projects
+
+This repo contains different sets of python project.
+
